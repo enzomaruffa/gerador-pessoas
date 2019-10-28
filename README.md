@@ -1,3 +1,10 @@
-# Gerador de pessoas aleatórias
+# Gerador de pessoas aleatÃ³rias
 
-Gera pessoas aleatórias! A geração de cartão de crédito foi carinhosamente copiada de https://github.com/eye9poob/python/blob/master/credit-card-numbers-generator.py.
+
+Feito para Python3
+
+Gerador pessoas aleatÃ³rias! 
+
+Projeto desenvolvido para criar uma base de dados teste para um projeto.
+
+A geraÃ§Ã£o de cartÃ£o de crÃ©dito foi carinhosamente copiada de: https://github.com/eye9poob/python/blob/master/credit-card-numbers-generator.py.
